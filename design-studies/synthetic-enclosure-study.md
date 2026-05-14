@@ -11,7 +11,7 @@ A mechanical design study needs to show enclosure reasoning, service access, air
 
 `scaffolded`
 
-This artifact is a local-only public-safe design study. It is not `published`, not `released`, and not approved for CAD export, render, screenshot, profile routing, or proof-stack routing.
+This artifact is a public, scaffolded, public-safe design study. It is not `released` and not approved for CAD export, render, screenshot, profile routing, or proof-stack routing.
 
 ## Synthetic Non-Production Enclosure Context
 
@@ -96,13 +96,13 @@ flowchart LR
 - Are airflow and ducting statements limited to conceptual review topics rather than production thermal posture or measured performance?
 - Are mounting and fastener notes generic enough to avoid BOM, supplier, customer part, or private rack model disclosure?
 - Does the public export policy gate any future screenshot, STEP/STL, render, generated output, or drawing?
-- Does the artifact clearly remain `scaffolded` and local-only until human CAD-boundary review approves any public route?
+- Does the artifact clearly remain `scaffolded` until human CAD-boundary review approves any public route?
 
 ## What This Proves
 
 This proves a public-safe method for documenting mechanical design reasoning, serviceability considerations, airflow topics, mounting assumptions, and CAD-boundary review gates without releasing CAD files or production geometry.
 
-It also proves that an enclosure study can be useful as a professional review artifact while remaining synthetic, qualitative, and local-only.
+It also proves that an enclosure study can be useful as a professional review artifact while remaining synthetic, qualitative, and scaffolded.
 
 ## What This Does Not Prove
 

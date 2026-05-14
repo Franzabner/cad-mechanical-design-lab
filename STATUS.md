@@ -1,17 +1,17 @@
 # Status
 
 Repository: `cad-mechanical-design-lab`  
-Creation mode: local-only scaffold  
+Creation mode: public scaffold
 Status: `scaffolded`  
-Publication state: not published  
+Publication state: public scaffold
 Release state: not released
 
 ## Status Table
 
 | Item | Status |
 | --- | --- |
-| Local file tree | `scaffolded` |
-| Public GitHub repository | `planned` |
+| Public scaffold files | `scaffolded` |
+| Public GitHub repository | `published scaffold` |
 | Public profile link | `planned` |
 | Proof-stack row | `planned` |
 | Hugging Face metadata | `private/not-public` |
@@ -26,4 +26,4 @@ Use only `planned`, `scaffolded`, `published`, `released`, `paused`, `deprecated
 
 ## Current Review State
 
-This local scaffold requires human review before public repo creation, profile routing, proof-stack routing, publication, pinning, screenshots, exports, renders, or metadata work.
+This public scaffold requires human review before profile routing, proof-stack routing, release, pinning, screenshots, exports, renders, or metadata work.

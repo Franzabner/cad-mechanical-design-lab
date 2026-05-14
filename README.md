@@ -1,12 +1,12 @@
 # CAD Mechanical Design Lab
 
-Status: `scaffolded` local-only  
-Publication state: not published  
+Status: `scaffolded`
+Publication state: public scaffold
 Release state: not released
 
 ## What This Repo Is
 
-`cad-mechanical-design-lab` is a local-only scaffold for public-safe CAD and mechanical design studies for intelligent infrastructure.
+`cad-mechanical-design-lab` is a public scaffold for public-safe CAD and mechanical design studies for intelligent infrastructure.
 
 ## Why It Exists
 
@@ -63,15 +63,15 @@ Validation requires:
 - study review;
 - diagram review;
 - proof-stack review before public routing;
-- human review before publication, pinning, metadata work, screenshots, STEP/STL, renders, or profile routing.
+- human review before pinning, metadata work, screenshots, STEP/STL, renders, release, or profile routing.
 
 ## Current Status
 
 | Field | Status |
 | --- | --- |
-| Local scaffold | `scaffolded` |
-| Public GitHub repo | `planned` |
-| Published artifact | `private/not-public` |
+| Public scaffold | `scaffolded` |
+| Public GitHub repo | `published scaffold` |
+| Published artifact | `scaffolded` |
 | Released artifact | `private/not-public` |
 | Profile routing | `planned` |
 | Proof-stack routing | `planned` |
@@ -87,4 +87,4 @@ Future public routing must flow through:
 - `Franzabner` profile route after human approval;
 - `franzabner-proof-stack` proof row after local scaffold validation.
 
-This repository must not be linked as live public proof until human review approves the local scaffold.
+This repository must not be linked as live public proof until human review approves proof use.

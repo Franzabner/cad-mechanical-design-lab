@@ -1,6 +1,6 @@
 # AGENTS.md
 
-This repository is a local-only Phase 2 scaffold for `cad-mechanical-design-lab`.
+This repository is a public Phase 2 scaffold for `cad-mechanical-design-lab`.
 
 ## Scope
 
@@ -24,8 +24,8 @@ Work in this repository must stay public-safe, synthetic, and review-gated. The 
 
 Use only `planned`, `scaffolded`, `published`, `released`, `paused`, `deprecated`, or `private/not-public`.
 
-This local scaffold starts as `scaffolded`. It is not published and not released.
+This public scaffold remains `scaffolded`. It is not released.
 
 ## Validation
 
-Before any commit, publication, profile routing, proof-stack routing, CAD export, screenshot, render, or generated output, run `scripts/validate-public-boundary.sh` and complete human boundary review.
+Before any commit, profile routing, proof-stack routing, release, CAD export, screenshot, render, generated output, or metadata work, run `scripts/validate-public-boundary.sh` and complete human boundary review.
