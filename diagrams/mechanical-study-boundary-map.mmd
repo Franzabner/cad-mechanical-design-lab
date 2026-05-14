@@ -1,0 +1,21 @@
+flowchart LR
+  profile["Franzabner profile route"]
+  proof["franzabner-proof-stack"]
+  study["Synthetic mechanical design study"]
+  export["Public export review"]
+  boundary["CAD / sealed geometry boundary"]
+  hold["Private/not-public source held out"]
+
+  profile --> proof
+  proof --> study
+  study --> export
+  study --> boundary
+  hold -. excluded .-> study
+
+  classDef public fill:#e8f5ff,stroke:#2f6f9f,color:#111;
+  classDef review fill:#fff6d8,stroke:#a37500,color:#111;
+  classDef sealed fill:#f7e0e0,stroke:#9f2f2f,color:#111;
+
+  class profile,proof,study public;
+  class export,boundary review;
+  class hold sealed;
