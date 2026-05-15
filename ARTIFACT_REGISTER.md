@@ -11,4 +11,4 @@ Status: `scaffolded`
 | CAD redaction rules | `sealed-boundary/cad-redaction-rules.md` | `scaffolded` | Boundary control. |
 | Mechanical boundary map | `diagrams/mechanical-study-boundary-map.mmd` | `scaffolded` | Synthetic diagram only. |
 
-No artifact is `published` or `released`.
+Published artifacts remain `scaffolded`. No artifact is `released`.

@@ -85,6 +85,6 @@ Produce one synthetic enclosure or rack-module study with public-safe diagrams a
 Future public routing must flow through:
 
 - `Franzabner` profile route after human approval;
-- `franzabner-proof-stack` proof row after local scaffold validation.
+- `franzabner-proof-stack` proof row after public scaffold validation.
 
 This repository must not be linked as live public proof until human review approves proof use.
